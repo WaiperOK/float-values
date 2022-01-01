@@ -4,6 +4,6 @@ val3 = 12.3
 val4 = 12.1
 val5 = 111.21
 
-sum = int(val1) + int(val2) + int(val3) + int(val4) + int(val5)
+sum = float(val1) + float(val2) + float(val3) + float(val4) + float(val5)
 
 print("The sum is: ",sum)
